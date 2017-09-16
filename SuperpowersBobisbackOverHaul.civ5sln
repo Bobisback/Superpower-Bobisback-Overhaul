@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# ModBuddy Solution File, Format Version 11.00
+Project("{F5FC21B5-7CC2-458A-ABBA-992F515BBA20}") = "SuperpowersBobisbackOverHaul", "SuperpowersBobisbackOverHaul\SuperpowersBobisbackOverHaul.civ5proj", "{D4B490A2-B9B1-4BA9-A787-279BE876FFE0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{25041563-BAF8-4512-95EF-9F8F0C9461A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|x86 = Default|x86
+		Deploy Only|x86 = Deploy Only|x86
+		Package Only|x86 = Package Only|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4B490A2-B9B1-4BA9-A787-279BE876FFE0}.Default|x86.ActiveCfg = Default|x86
+		{D4B490A2-B9B1-4BA9-A787-279BE876FFE0}.Default|x86.Build.0 = Default|x86
+		{D4B490A2-B9B1-4BA9-A787-279BE876FFE0}.Deploy Only|x86.ActiveCfg = Deploy Only|x86
+		{D4B490A2-B9B1-4BA9-A787-279BE876FFE0}.Deploy Only|x86.Build.0 = Deploy Only|x86
+		{D4B490A2-B9B1-4BA9-A787-279BE876FFE0}.Package Only|x86.ActiveCfg = Package Only|x86
+		{D4B490A2-B9B1-4BA9-A787-279BE876FFE0}.Package Only|x86.Build.0 = Package Only|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
