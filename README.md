@@ -53,7 +53,7 @@ Things I would like to do
 4. Merge the city states diplo overhaul
 5. Merge the yet (not) another map pack
 6. Create a way for the buttons to work over multiplayer. This is for the great general military academy as well as the mobilize demobilize for militia/workers. Currently these do not work for multiplayer. They show up but will desync the game if done by anyone other than host.
-7. Create a dlc modpack for use in multiplayer. (This will be done for every release)
+7. Create a dlc modpack for use in multiplayer. (This will be done for every release, currently this is the MP_MODPACK.zip. put this into your dlc folder in civ 5 directory to play multiplayer.)
 
 Known bugs:
 1. Fog of war is broken in some hotseat games.
