@@ -9,20 +9,6 @@ Things I have finished
 6. DONE Buff gassion bonus. (Double )
 7. DONE Double the city hp bonus for population size
     Current HP Bonuses:
-    Town 0
-    Small 50
-    Medium 75
-I started this project to change some things that I did not like about the superpower mod. Most of these changes are personal taste. All changes are geared more towards the multiplayer I play with my friends and this mod and through Giant Multiplayer Robot. Even though this is a mod most of the time I convert it to a fake dlc for use in multiplayer with friends. Below is a list of changes I would like to make as compared to the default mod with a list of what I have done so far.
-
-Things I have finished
-1. DONE -25% to city attack melee navy (Only to Destroyer, missile destroyer)
-2. DONE -25% to to land unit attack for ranged ships (dreadnought, battleship)
-3. DONE -25% to land unit attack for militia naval units (Gally, Monitor, Corvette)
-4. DONE Buff Monitor to 90 melee and ranged.
-5. DONE Buff corvette to 150 melee and ranged.
-6. DONE Buff gassion bonus. (Double )
-7. DONE Double the city hp bonus for population size
-    Current HP Bonuses:
     
     Town 0
     
@@ -80,7 +66,7 @@ Known bugs:
 8. DONE Buff siege units with 25% bonus to cities to make siege units more useful in city attack
 9. DONE Change city capture to lose only 10% pop instead of 50%.
 10. DONE Up the air limit in cities to 4 per city by default.
-11. DONE Lower starting bonuses to AI difficulty levels, but increase the era bonuses especially late game. Leave science alone though. Reason: AI gets to strong at the start, but it is late game where they are to easy at. Hopefully this will somewhat fix this issue. They always techto fast though so we need to slow this down late game.
+11. DONE Lowered ai sceince bonus late game.
 12. DONE Slow tech down in late game.   
     ERA_INDUSTRIAL 1.25x
     ERA_MODERN 1.5x
