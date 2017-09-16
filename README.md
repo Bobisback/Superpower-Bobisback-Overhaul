@@ -58,37 +58,3 @@ Things I would like to do
 Known bugs:
 1. Fog of war is broken in some hotseat games.
 2. The retreat will still delete units in certain cases, like the city they go to is still full.
-
-    Large 100
-    XL 125
-    XXL 150
-    Global 200
-8. DONE Buff siege units with 25% bonus to cities to make siege units more useful in city attack
-9. DONE Change city capture to lose only 10% pop instead of 50%.
-10. DONE Up the air limit in cities to 4 per city by default.
-11. DONE Lowered ai sceince bonus late game.
-12. DONE Slow tech down in late game.   
-    ERA_INDUSTRIAL 1.25x
-    ERA_MODERN 1.5x
-    ERA_WORLDWAR 1.75x
-    ERA_POSTMODERN 2x
-    ERA_INFORMATION 2.5x
-    ERA_FUTURE  3x
-13. DONE Doubled HP for infantry, hit and run, and tanks.
-14. DONE Spaical forces now have a promotion that allows it to damage air units in the city they attack.
-15. DONE Air units retreat from the city to nearest city while taking some retreat damage.
-16. DONE Naval and land units retreat to nearest tile taking damamge, and if no tile to go to they go to nearest city with huge damage.
-17.  DONE Fixed a UI bug in hotseat.
-
-Things I would like to do
-1. Allow users to change focus on puppet cities. (Not sure how hard this will be)
-2. I would love to update this dll of superpowers to the new community patch version.
-3. I would like to merge the Civ 4 Diplo features mod (This is dependent on #2)
-4. Merge the city states diplo overhaul (This is dependent on #2)
-5. Merge the yet (not) another map pack (This is dependent on #2)
-6. Create a way for the buttons to work over multiplayer. This is for the great general military acdemey as well as the mobilize demobile for militia/workers. Currently these do not work for mutiplayer. They show up but will desync the game if done by anyone other then host.
-7. Create a dlc modpack for use in multiplayer. (This will be done for every release)
-
-Known bugs:
-1. Fog of war is broken in some hotseat games.
-2. The retreat will still delete units in certain cases, like the city they go to is still full.
